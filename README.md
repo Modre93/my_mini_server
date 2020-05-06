@@ -1,2 +1,2 @@
 # my_mini_server
-This is a mini server written with node.js. Histoire purpose is delivering JSON content according to client request.
+This is a mini server written with node.js. Its purpose is delivering JSON content according to client request.
